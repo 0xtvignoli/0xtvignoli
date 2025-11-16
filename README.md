@@ -6,18 +6,20 @@
 
 ## 🚀 About Me
 
-I'm a passionate DevOps Engineer with 3+ years of experience building scalable, secure, and efficient infrastructure solutions. I thrive on automating complex processes, orchestrating cloud environments, and bridging the gap between development and operations.
+I'm a passionate DevOps Engineer with **3+ years of experience** building scalable, secure, and efficient infrastructure solutions. I specialize in automating complex processes, orchestrating multi-cloud environments, and bridging the gap between development and operations.
 
-- 🔧 **Specializing in**: CI/CD pipelines, containerization, and multi-cloud architectures
-- 🌱 **Currently exploring**: Advanced Kubernetes patterns and GitOps workflows
-- 💡 **Always learning**: New technologies and best practices in DevSecOps
-- 🎯 **Mission**: Making deployments seamless and infrastructure resilient
+**What I bring to the table:**
+- 🔧 **Expertise**: CI/CD pipelines, containerization, and multi-cloud architectures
+- 🌱 **Current Focus**: Advanced Kubernetes patterns, GitOps workflows, and zero-trust security
+- 💡 **Continuous Learning**: Always exploring new technologies and DevSecOps best practices
+- 🎯 **Mission**: Making deployments seamless and infrastructure resilient through automation
 
 ## 🛠️ Technology Stack
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-34a853?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Container Orchestration
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -28,12 +30,12 @@ I'm a passionate DevOps Engineer with 3+ years of experience building scalable, 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/argo%20cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/cloudformation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pulumi](https://img.shields.io/badge/pulumi-512BD4?style=for-the-badge&logo=pulumi&logoColor=white)
 
 ### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -41,61 +43,66 @@ I'm a passionate DevOps Engineer with 3+ years of experience building scalable, 
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 ### Security & Compliance
-![Vault](https://img.shields.io/badge/vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Vault](https://img.shields.io/badge/vault-FFEC6E?style=for-the-badge&logo=hashicorp-vault&logoColor=black)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 
-## 💼 Professional Expertise
+### Coding
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-### 🏗️ **Infrastructure & Cloud Architecture**
-- Multi-cloud environment management (AWS, Microsoft Azure)
-- Infrastructure as Code (IaC) implementation and automation
-- Cloud migration strategies for legacy systems and applications
-- High availability and disaster recovery planning
+## 💼 Core Competencies
 
-### 🔄 **CI/CD & DevSecOps**
-- End-to-end CI/CD pipeline engineering and maintenance
-- Security integration throughout the development lifecycle
-- GitOps workflow implementation and best practices
-- Automated testing and deployment strategies
+### 🏗️ Infrastructure & Cloud Architecture
+Designing and managing multi-cloud environments (AWS, Azure) with Infrastructure as Code. Expertise in cloud migration strategies, high availability architectures, and disaster recovery planning.
 
-### 🐳 **Containerization & Orchestration**
-- Kubernetes and OpenShift cluster management
-- Container security and optimization
-- Microservices architecture deployment
-- Service mesh implementation
+### 🔄 CI/CD & DevSecOps
+Building end-to-end CI/CD pipelines with security integrated throughout the development lifecycle. Implementing GitOps workflows and automated testing strategies for faster, safer deployments.
 
-### 📊 **System Administration & Operations**
-- High-performance system optimization
-- Critical system monitoring and alerting
-- Performance tuning and capacity planning
-- Incident response and troubleshooting
+### 🐳 Containerization & Orchestration
+Managing Kubernetes and OpenShift clusters at scale. Specialized in container security, microservices deployment, and service mesh implementation for production workloads.
 
-### 🎯 **Agile & Team Leadership**
-- Agile methodology implementation
-- Cross-functional team collaboration
-- Process optimization and automation
-- Knowledge sharing and mentoring
+### 📊 Observability & Operations
+Implementing comprehensive monitoring, alerting, and observability solutions. Optimizing system performance, capacity planning, and leading incident response for critical systems.
 
-## 📈 GitHub Stats
+### 🎯 Leadership & Collaboration
+Driving Agile practices and cross-functional collaboration. Focused on process automation, knowledge sharing, and mentoring teams to deliver infrastructure excellence.
+
+## 🔥 Featured Projects
+
+<!--
+### [Project Name](link-to-repo)
+Brief description of what the project does, technologies used, and key achievements.
+
+**Tech Stack**: Kubernetes, Terraform, ArgoCD
+**Highlights**: Reduced deployment time by 60%, implemented GitOps workflow
+-->
+
+*Check out my repositories for more projects and contributions!*
+
+## 📈 GitHub Contributions
 
 <div align="center">
-  
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xtvignoli&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xtvignoli&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xtvignoli&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
 
 </div>
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Learning
 
-- 🔐 **Advanced DevSecOps**: Implementing zero-trust security models in CI/CD pipelines
-- ☸️ **Kubernetes Excellence**: Exploring advanced patterns like operators and custom controllers  
-- 🌩️ **Multi-Cloud Strategies**: Developing vendor-agnostic infrastructure solutions
+- 🔐 **DevSecOps**: Implementing zero-trust security models in CI/CD pipelines
+- ☸️ **Kubernetes**: Exploring operators, custom controllers, and advanced patterns
+- 🌩️ **Multi-Cloud**: Developing vendor-agnostic infrastructure solutions
 - 🚀 **Platform Engineering**: Building developer-centric platform experiences
 
 ## 🤝 Let's Connect!
 
-I'm always excited to discuss DevOps, cloud architecture, automation, or just chat about technology in general. Whether you're looking to collaborate on a project, need advice on infrastructure challenges, or want to share ideas about the latest in DevOps practices, feel free to reach out!
+I'm always excited to discuss DevOps, cloud architecture, automation, or collaborate on interesting projects. Whether you need advice on infrastructure challenges, want to share ideas about the latest in DevOps practices, or are looking for a DevOps engineer, feel free to reach out!
+
+**Connect with me:**
+- 💼 [LinkedIn](https://linkedin.com/in/tvignoli) - Professional updates and insights
+- 📧 [Email](mailto:thomas.vignoli@pm.me) - Let's discuss your next infrastructure challenge
+- 🌐 [Personal Website](https://tvignoli.com) - More about my work and projects
 
 ---
 
@@ -104,5 +111,7 @@ I'm always excited to discuss DevOps, cloud architecture, automation, or just ch
 *"The best way to predict the future is to automate it."*
 
 ⭐ **If you find my work interesting, consider giving my repositories a star!** ⭐
+
+[![GitHub followers](https://img.shields.io/github/followers/0xtvignoli?style=social)](https://github.com/0xtvignoli)
 
 </div>
