@@ -1,117 +1,92 @@
-# Hi there, I'm Thomas! 👋
+# Thomas Vignoli
 
 **DevOps Engineer | Cloud Architect | Infrastructure Enthusiast**
 
-> *"Dreamer and nature lover. Sometimes it happens to spend whole days in front of a screen"*
+> Dreamer and nature lover. Sometimes it happens to spend whole days in front of a screen.
 
-## 🚀 About Me
+---
+
+## About
 
 I'm a passionate DevOps Engineer with **3+ years of experience** building scalable, secure, and efficient infrastructure solutions. I specialize in automating complex processes, orchestrating multi-cloud environments, and bridging the gap between development and operations.
 
-**What I bring to the table:**
-- 🔧 **Expertise**: CI/CD pipelines, containerization, and multi-cloud architectures
-- 🌱 **Current Focus**: Advanced Kubernetes patterns, GitOps workflows, and zero-trust security
-- 💡 **Continuous Learning**: Always exploring new technologies and DevSecOps best practices
-- 🎯 **Mission**: Making deployments seamless and infrastructure resilient through automation
+**Expertise**: CI/CD pipelines, containerization, and multi-cloud architectures  
+**Current Focus**: Advanced Kubernetes patterns, GitOps workflows, and zero-trust security  
+**Mission**: Making deployments seamless and infrastructure resilient through automation
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-34a853?style=for-the-badge&logo=google-cloud&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
 
 ### Container Orchestration
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/openshift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 ### CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/argo%20cd-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 
 ### Infrastructure as Code
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/pulumi-512BD4?style=for-the-badge&logo=pulumi&logoColor=white)
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /> <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white" alt="Pulumi" />
 
 ### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
 
 ### Security & Compliance
-![Vault](https://img.shields.io/badge/vault-FFEC6E?style=for-the-badge&logo=hashicorp-vault&logoColor=black)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+<img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=hashicorp-vault&logoColor=000000" alt="Vault" /> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk" />
 
 ### Coding
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 
-## 💼 Core Competencies
+---
 
-### 🏗️ Infrastructure & Cloud Architecture
+## Core Competencies
+
+**Infrastructure & Cloud Architecture**  
 Designing and managing multi-cloud environments (AWS, Azure) with Infrastructure as Code. Expertise in cloud migration strategies, high availability architectures, and disaster recovery planning.
 
-### 🔄 CI/CD & DevSecOps
+**CI/CD & DevSecOps**  
 Building end-to-end CI/CD pipelines with security integrated throughout the development lifecycle. Implementing GitOps workflows and automated testing strategies for faster, safer deployments.
 
-### 🐳 Containerization & Orchestration
+**Containerization & Orchestration**  
 Managing Kubernetes and OpenShift clusters at scale. Specialized in container security, microservices deployment, and service mesh implementation for production workloads.
 
-### 📊 Observability & Operations
+**Observability & Operations**  
 Implementing comprehensive monitoring, alerting, and observability solutions. Optimizing system performance, capacity planning, and leading incident response for critical systems.
 
-### 🎯 Leadership & Collaboration
+**Leadership & Collaboration**  
 Driving Agile practices and cross-functional collaboration. Focused on process automation, knowledge sharing, and mentoring teams to deliver infrastructure excellence.
 
-## 🔥 Featured Projects
+---
 
-<!--
-### [Project Name](link-to-repo)
-Brief description of what the project does, technologies used, and key achievements.
-
-**Tech Stack**: Kubernetes, Terraform, ArgoCD
-**Highlights**: Reduced deployment time by 60%, implemented GitOps workflow
--->
-
-*Check out my repositories for more projects and contributions!*
-
-## 📈 GitHub Contributions
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xtvignoli&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xtvignoli&theme=minimal&hide_border=true&area=true&bg_color=ffffff&color=5f6368&line=4285f4&point=34a853" alt="GitHub Activity Graph" />
 
 </div>
 
-## 🎯 Current Focus & Learning
+---
 
-- 🔐 **DevSecOps**: Implementing zero-trust security models in CI/CD pipelines
-- ☸️ **Kubernetes**: Exploring operators, custom controllers, and advanced patterns
-- 🌩️ **Multi-Cloud**: Developing vendor-agnostic infrastructure solutions
-- 🚀 **Platform Engineering**: Building developer-centric platform experiences
+## Current Focus
 
-## 🤝 Let's Connect!
+**DevSecOps** — Implementing zero-trust security models in CI/CD pipelines  
+**Kubernetes** — Exploring operators, custom controllers, and advanced patterns  
+**Multi-Cloud** — Developing vendor-agnostic infrastructure solutions  
+**Platform Engineering** — Building developer-centric platform experiences
 
-I'm always excited to discuss DevOps, cloud architecture, automation, or collaborate on interesting projects. Whether you need advice on infrastructure challenges, want to share ideas about the latest in DevOps practices, or are looking for a DevOps engineer, feel free to reach out!
+---
 
-**Connect with me:**
-- 💼 [LinkedIn](https://linkedin.com/in/tvignoli) - Professional updates and insights
-- 📧 [Email](mailto:thomas.vignoli@pm.me) - Let's discuss your next infrastructure challenge
-- 🌐 [Personal Website](https://tvignoli.com) - More about my work and projects
+## Connect
+
+I'm always excited to discuss DevOps, cloud architecture, automation, or collaborate on interesting projects.
+
+[LinkedIn](https://linkedin.com/in/tvignoli) · [Email](mailto:thomas.vignoli@pm.me) · [Website](https://tvignoli.com)
 
 ---
 
 <div align="center">
-  
-*"The best way to predict the future is to automate it."*
 
-⭐ **If you find my work interesting, consider giving my repositories a star!** ⭐
-
-[![GitHub followers](https://img.shields.io/github/followers/0xtvignoli?style=social)](https://github.com/0xtvignoli)
+*The best way to predict the future is to automate it.*
 
 </div>
