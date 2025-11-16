@@ -62,7 +62,7 @@ Driving Agile practices and cross-functional collaboration. Focused on process a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xtvignoli&theme=minimal&hide_border=true&area=true&bg_color=ffffff&color=5f6368&line=4285f4&point=34a853" alt="GitHub Activity Graph" />
+<img src="https://github-contributions-api.deno.dev/0xtvignoli.svg?theme=github&hide_border=true" alt="GitHub Contributions" width="800" />
 
 </div>
 
