@@ -1,3 +1,16 @@
+<style>
+  @media (prefers-color-scheme: dark) {
+    body, h1, h2, h3, h4, h5, h6, p, li, blockquote {
+      color: #ffffff !important;
+    }
+  }
+  @media (prefers-color-scheme: light) {
+    body, h1, h2, h3, h4, h5, h6, p, li, blockquote {
+      color: #000000 !important;
+    }
+  }
+</style>
+
 # `>>> Hello World!` 🤓 #ThomasWasHere
 
 **DevOps Engineer | Cloud Architect | Infrastructure Enthusiast**
