@@ -1,4 +1,4 @@
-# Thomas Vignoli
+# `>>> Hello World!` 🤓 #ThomasWasHere
 
 **DevOps Engineer | Cloud Architect | Infrastructure Enthusiast**
 
@@ -17,10 +17,10 @@ I'm a passionate DevOps Engineer with **3+ years of experience** building scalab
 ## Technology Stack
 
 ### Cloud Platforms
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=232F3E" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
 
 ### Container Orchestration
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/OpenShift-CC0000?style=flat-square&logo=redhatopenshift&logoColor=white" alt="OpenShift" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 ### CI/CD & GitOps
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -32,7 +32,7 @@ I'm a passionate DevOps Engineer with **3+ years of experience** building scalab
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
 
 ### Security & Compliance
-<img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=hashicorp-vault&logoColor=000000" alt="Vault" /> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk" />
+<img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=FFEC6E" alt="Vault" /> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" alt="Snyk" />
 
 ### Coding
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -73,7 +73,8 @@ Driving Agile practices and cross-functional collaboration. Focused on process a
 **DevSecOps** — Implementing zero-trust security models in CI/CD pipelines  
 **Kubernetes** — Exploring operators, custom controllers, and advanced patterns  
 **Multi-Cloud** — Developing vendor-agnostic infrastructure solutions  
-**Platform Engineering** — Building developer-centric platform experiences
+**Platform Engineering** — Building developer-centric platform experiences  
+**AI/ML Engineering** — Building scalable infrastructure for machine learning workloads
 
 ---
 
