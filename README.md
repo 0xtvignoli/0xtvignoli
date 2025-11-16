@@ -60,9 +60,9 @@ Driving Agile practices and cross-functional collaboration. Focused on process a
 
 ## GitHub Activity
 
-<div align="center">
+<div align="center" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; display: inline-block;">
 
-<img src="https://github-contributions-api.deno.dev/0xtvignoli.svg?theme=tokyonight&hide_border=true" alt="GitHub Contributions" width="800" />
+<img src="https://github-contributions-api.deno.dev/0xtvignoli.svg?theme=github-light&hide_border=false" alt="GitHub Contributions" width="800" />
 
 </div>
 
